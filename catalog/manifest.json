@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "version": 8,
-  "versionName": "2026.11.20.1",
+  "version": 9,
+  "versionName": "2026.11.20.2",
   "updatedAt": "2026-11-20",
   "minModuleVersionCode": 79,
   "dataFile": "unlock-data.json",
   "encryption": "AES-256-GCM",
   "keyId": "catalog-v1",
   "size": 46422,
-  "sha256": "485c5321542953d22b94a4d0c4b86d303098d3f9f096862fbac471d43a2502cf"
+  "sha256": "0121f844ee8425e88679766cb859e8feb4fac9fe37070a2a8dcf5c902dfca4db"
 }
